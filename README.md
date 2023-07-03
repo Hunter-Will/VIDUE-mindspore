@@ -36,7 +36,7 @@ Please download the Adobe datasets from [link](https://www.dropbox.com/s/pwjbbrc
         |--video n
 ```
 ## Download Pre-trained Model of VIDUE-mindspore
-Pre-trained exposure-aware feature extractor on GoPro and Adobe in MindSpore version and pre-trained VIDUE ckpt in MindSpore version can be downloaded from [here](链接：https://pan.baidu.com/s/18homDHA7mI6tw7xZd1LJDw?pwd=mnxf).
+Pre-trained exposure-aware feature extractor on GoPro and Adobe in MindSpore version and pre-trained VIDUE ckpt in MindSpore version can be downloaded from [here](https://pan.baidu.com/s/18homDHA7mI6tw7xZd1LJDw?pwd=mnxf).
 
 Please put these models to `./experiment`.
 
